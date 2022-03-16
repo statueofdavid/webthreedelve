@@ -1,0 +1,3 @@
+[submodule "useless/substrate_tutorials/my_first_substrate_blockchain/backend/substrate-node-template"]
+	path = useless/substrate_tutorials/my_first_substrate_blockchain/backend/substrate-node-template
+	url = https://github.com/substrate-developer-hub/substrate-node-template
